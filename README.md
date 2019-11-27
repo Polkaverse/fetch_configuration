@@ -15,7 +15,7 @@ A Library to fetch the configurations form the config file.
 Add dependency in Cargo.toml
 ```sh
 [dependencies]
-fetch_configuration = "0.1.0"
+fetch_configuration = "0.2.0"
 ```
 Example to use fetch configuration crate
 ```sh

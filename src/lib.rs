@@ -1,6 +1,14 @@
-use json;
+/**
+ * Copyright (c) 2019 Pankaj Chaudhary
+ *
+ * This source code is licensed under the MIT License found in
+ * the LICENSE.md file in the root directory of this source tree.
+ */
+
 use std::collections::HashMap;
 use std::fs::read_to_string;
+
+use json;
 
 /// This function retrieve the value from the config file.
 ///

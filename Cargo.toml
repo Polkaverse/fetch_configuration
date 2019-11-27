@@ -4,8 +4,8 @@ version = "0.1.0"
 authors = ["Pankaj Chaudhary <pankajchaudhary172@gmail.com>"]
 edition = "2018"
 
-description = "📶Library to fetch configuration from config file."
-repository = "https://github.com/jesusprubio/online.git"
+description = "Library to fetch configuration from config file."
+repository = "https://github.com/PankajChaudhary5/fetch_configuration.git"
 readme = "README.md"
 keywords = ["configuration"]
 categories = ["network-programming"]

@@ -1,0 +1,15 @@
+[package]
+name = "fetch_configuration"
+version = "0.1.0"
+authors = ["Pankaj Chaudhary <pankajchaudhary172@gmail.com>"]
+edition = "2018"
+
+description = "📶Library to fetch configuration from config file."
+repository = "https://github.com/jesusprubio/online.git"
+readme = "README.md"
+keywords = ["configuration"]
+categories = ["network-programming"]
+license = "MIT"
+
+[dependencies]
+json = "0.12.0"

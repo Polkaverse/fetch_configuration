@@ -9,7 +9,7 @@
   <img alt="Stability stable" src="https://img.shields.io/badge/stability-stable-green.svg">
 </p>
 
-A Library to fetch the configurations from the config file.
+A Rust Crate/Library to fetch the configurations of code from config file and return a key-value pair for all the configurations in the form of Hashmap.
 
 ## Use
 Add dependency in Cargo.toml

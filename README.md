@@ -9,7 +9,7 @@
   <img alt="Stability stable" src="https://img.shields.io/badge/stability-stable-green.svg">
 </p>
 
-A Library to fetch the configurations form the config file.
+A Library to fetch the configurations from the config file.
 
 ## Use
 Add dependency in Cargo.toml
